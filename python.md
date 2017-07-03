@@ -1,6 +1,12 @@
 ## content marketing
 
+https://blog.hubspot.com/opinion/9-viral-content-tips-zimmerman
+
 https://www.slideshare.net/MarkJohnstone2/how-toproducebettercontentideasmarkjohnstone/110-verificationyou_need_to_verify_your
+
+
+
+https://www.slideshare.net/boardofinnovation/how-i-got-25-million-views-on-slideshare-by-nickdemey-boardofinno/50-Hungry_for_more_Keep_an
 
 ## data
 
