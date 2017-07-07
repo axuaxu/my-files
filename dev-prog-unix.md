@@ -17,3 +17,6 @@ A Beautifully Productive Terminal Experience
 
 http://mikebuss.com/2014/02/02/a-beautiful-productive-terminal-experience
 
+https://www.youtube.com/watch?v=dutxDn9fQkk
+
+In 6 minutes we'll integrate Socrata API, Google Maps API, Google Street View API, AlchemyAPI, and Dropbox API. Using a spreadsheet.

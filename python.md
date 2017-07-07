@@ -1,3 +1,13 @@
+## scrape
+
+https://chrisalbon.com/python/beautiful_soup_scrape_table.html
+
+http://savvastjortjoglou.com/nba-draft-part01-scraping.html
+
+https://chihacknight.org/blog/2014/11/26/an-intro-to-web-scraping-with-python.html
+
+
+
 ## content marketing
 
 https://blog.hubspot.com/opinion/9-viral-content-tips-zimmerman

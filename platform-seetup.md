@@ -1,5 +1,23 @@
 
 
+## VPN
+
+http://lifehacker.com/how-to-set-up-your-own-completely-free-vpn-in-the-cloud-1794302432
+
+http://www.slate.com/articles/technology/future_tense/2017/02/how_to_set_up_a_virtual_private_network.html
+
+http://www.techhive.com/article/3158192/privacy/howand-whyyou-should-use-a-vpn-any-time-you-hop-on-the-internet.html
+
+https://www.howtogeek.com/221001/how-to-set-up-your-own-home-vpn-server/
+
+http://www.practicallynetworked.com/security/set-up-a-personal-windows-vpn.htm
+
+
+
+
+
+
+
 ##  automated web testing tool
 
 

@@ -1,3 +1,7 @@
+##### https://scraperwiki.com/
+
+
+
 https://scotch.io/tutorials/scraping-the-web-with-node-js
 
 
@@ -8,7 +12,7 @@ http://code4node.com/snippet/web-scraping-with-node-and-phantomjs
 
 http://code4node.com/snippet/web-scraping-with-nodejs-and-cheerio
 
-
+#### http://docs.pyspider.org/en/latest/
 
 https://github.com/nrabinowitz/pjscrape
 
